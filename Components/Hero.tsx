@@ -53,7 +53,7 @@ const Hero = () => {
                     </div>
                     <div className='ml-[12vh] mb-[5vh]'>
                         <div className='w-[400px] hidden bg-[#090f18] relative lg:flex items-center rounded-full h-[400px]'>
-                            <Image src="/images/pme.png" alt="user" layout="fill"/>
+                            <Image src="/images/11.jpg" alt="user" layout="fill"/>
                         </div>
                     </div>
 

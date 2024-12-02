@@ -6,7 +6,7 @@ import { FaCss3Alt } from "react-icons/fa";
 import { IoLogoJavascript } from "react-icons/io5";
 import { FaJava } from "react-icons/fa6";
 import { FaNodeJs } from "react-icons/fa";
-import { SiMongodb } from "react-icons/si";
+import { SiMongodb, SiPowerbi } from "react-icons/si";
 import { FaReact } from "react-icons/fa";
 import { SiTailwindcss } from "react-icons/si";
 import { SiMysql } from "react-icons/si";
@@ -93,10 +93,11 @@ const Skills1 = () => {
                     <div data-aos="fade-left" data-aos-delay="600">
                         <div className='bg-[#16243e]  hover:scale-110 transform transition-all duration-300 hover:-rotate-6
                                     uppercase font-semibold text-center p-[2rem] rounded-3xl '>
-                            <SiMongodb className='w-[4rem] h-[4.5rem] mx-auto text-green-400' />
+                            <SiPowerbi className='w-[4rem] h-[4.5rem] mx-auto text-green-400' />
                             <h1 className='text-[20px] mt:text-[30px] mt-[0.5rem] mb-[0.5rem] mx-auto capitalize'>
-                                MongoDB
+                                PowerBI
                             </h1>
+
 
 
                         </div>

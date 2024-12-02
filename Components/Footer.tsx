@@ -42,7 +42,7 @@ const Footer = () => {
 
                             <div>
                                 <h1 className="text-[25px] mb-[0.2rem] font-semibold text-white">Email</h1>
-                                <p className="text-[17px] w-[100%] text-white opacity-60">@gmail.com </p>
+                                <p className="text-[17px] w-[100%] text-white opacity-60">shanakaran23@gmail.com </p>
                             </div>
                         </div>
 
@@ -52,9 +52,9 @@ const Footer = () => {
                     </div>
 
                     <div className='mt-[2rem]  flex items-stretch space-x-[4rem]  '>
-                        <a href="https://lk.linkedin.com/in/iynkaran-pavanantham-b54991263"><FaLinkedin className='w-[2rem] h-[2rem] text-white hover:scale-110 transform transition-all duration-300 hover:-rotate-6 ' /></a>
+                        <a href="https://www.linkedin.com/in/vithushana-manoharan-%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB-2654b4265/?originalSubdomain=lk"><FaLinkedin className='w-[2rem] h-[2rem] text-white hover:scale-110 transform transition-all duration-300 hover:-rotate-6 ' /></a>
                         {/* <a href="https://linktr.ee/iynguuuuu?utm_source=linktree_profile_share&ltsid=c030f32c-1a6a-4306-b0e7-9a086ebe75ee"> <SiLinktree className='w-[2rem] h-[2rem] text-white hover:scale-110 transform transition-all duration-300 hover:-rotate-6  ' /></a> */}
-                        <a href="https://www.instagram.com/iyng._.uuuuu?igsh=MTczamF3cm1jcm42bg%3D%3D&utm_source=qr"> <AiFillInstagram className='w-[2rem] h-[2rem] text-white hover:scale-110 transform transition-all duration-300 hover:-rotate-6 ' /></a>
+                        {/* <a href="https://www.instagram.com/iyng._.uuuuu?igsh=MTczamF3cm1jcm42bg%3D%3D&utm_source=qr"> <AiFillInstagram className='w-[2rem] h-[2rem] text-white hover:scale-110 transform transition-all duration-300 hover:-rotate-6 ' /></a> */}
                     </div>
 
 

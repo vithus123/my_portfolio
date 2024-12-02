@@ -48,11 +48,12 @@ const Projects = () => {
                                 <Image src="/images/weatherwave.jpg" alt="Portfolio" layout='fill' className='object-contain fixed' />
                             </div>
                             <h1 className='text-[20px] mt:text-[10px] mt-[5px] mb-[5px]'>
-                                WeatherWave <br />
+                            Shoe Outlet<br />
                             </h1>
                             <p className='text-[15px] text-[#d3d2d2] font-normal opacity-70'>
-                                Weatherwave will be getting temperature, humidity,feels like, sunrise, sunset, hourly, and daily forecast. For input, there are some quick links on top along with a text box for searching a city and also a current location-based search. <br />
-                                Used: <span className='text-decoration-line: underline font-bold'>React JS, TailWind CSS, OpenWeatherMap for API  <br />
+                            developed a  website and POS system for inventory management, order management, employee management, finance management and supplier management.
+                            Group Project <br />
+                                Used: <span className='text-decoration-line: underline font-bold'>Spring Boot, PostgreSQL, Vue js <br />
                                 </span>
                             </p>
                             <div className='mt-[1rem] flex items-stretch space-x-5 ml-[9rem]'>
@@ -71,16 +72,17 @@ const Projects = () => {
                                 <Image src="/images/P3.jpg" alt="Portfolio" layout='fill' className='object-contain fixed' />
                             </div>
                             <h1 className='text-[20px] mt:text-[10px] mt-[5px] mb-[5px]'>
-                                Marketing Website <br />
+                            DishDelight <br />
                             </h1>
                             <p className='text-[15px] text-[#d3d2d2] font-normal opacity-70'>
-                                Created a marketing website for Flexlight. <br />
-                                Text Animation | Hover Effects | AOS Animations
-                                <br />Used: <span className='text-decoration-line: underline font-bold'>React JS, TailWind CSS, TypeScript, <br />
-                                    Next JS</span>
+                            Created a food ordering application as part of a Human-Computer Interaction
+                            module. Focused on user interface and experience. <br />
+                                Mobile app Development
+                                <br />Used:<span className='text-decoration-line: underline font-bold'> Android Studio, Java, API <br />
+                                </span>
                             </p>
                             <div className='mt-[1rem] flex items-stretch space-x-5 ml-[9rem]'>
-                                <a href="https://github.com/Iynguuuuu/Flexlight"> <IoLogoGithub className='w-[2rem] h-[2rem] text-white ' /></a>
+                                <a href="https://github.com/vithus123"> <IoLogoGithub className='w-[2rem] h-[2rem] text-white ' /></a>
                                 <a href="https://flexlight.vercel.app/"> <IoGlobeOutline className='w-[2rem] h-[2rem] text-white ' /></a>
                             </div>
 
@@ -92,18 +94,19 @@ const Projects = () => {
 
                             <div className='transform cursor-pointer hover:-translate-y-6 transition-all duration-200 relative 
                                 w-[300px] h-[200px] md:h-[300px] mx-auto '>
-                                <Image src="/images/todo.jpg" alt="Portfolio" layout='fill' className='object-contain fixed' />
+                                <Image src="/images/capture1.PNG" alt="Portfolio" layout='fill' className='object-contain fixed' />
                             </div>
                             <h1 className='text-[20px] mt:text-[10px] mt-[5px] mb-[5px]'>
-                                My Task <br />
+                                JORA  <br />
                             </h1>
                             <p className='text-[15px] text-[#d3d2d2] font-normal opacity-70'>
-                                Implemented My daily tasks planner web application. <br /> JWT authentication | CRUD To-Dos <br />
-                                Used: <span className='text-decoration-line: underline font-bold'>React Js, Node with Express Js, MongoDB, (MERN) <br />
+                            Created a clothing online shopping website named Jora for a Web Application
+                            Development module.  <br /> COMMERCIAL WEBSITE <br />
+                                Used: <span className='text-decoration-line: underline font-bold'>HTML, CSS, JavaScript, PHP, MySQL <br />
                                 </span>
                             </p>
                             <div className='mt-[1rem] flex items-stretch space-x-5 ml-[9rem]'>
-                                <a href="https://github.com/Iynguuuuu/My_Task"> <IoLogoGithub className='w-[2rem] h-[2rem] text-white ' /></a>
+                                <a href="https://github.com/vithus123"> <IoLogoGithub className='w-[2rem] h-[2rem] text-white ' /></a>
                             </div>
 
                         </div>
@@ -180,14 +183,14 @@ const Projects = () => {
                         <div className='text-center p-[1rem]'>
                             <div className='transform cursor-pointer hover:-translate-y-6 transition-all duration-200 relative 
                                 w-[300px] h-[200px] md:h-[300px] mx-auto '>
-                                <Image src="/images/P4.jpg" alt="Portfolio" layout='fill' className='object-contain fixed' />
+                                <Image src="/images/2.jpg" alt="Portfolio" layout='fill' className='object-contain fixed' />
                             </div>
                             <h1 className='text-[20px] mt:text-[10px] mt-[5px] mb-[5px]'>
-                                Home Page & Feedback Page <br />
+                            Marketing Poster Designer <br />
                             </h1>
                             <p className='text-[15px] text-[#d3d2d2] font-normal opacity-70'>
-                                Created Home page and Feedback page for Web Developement group Coursework, static website. <br />
-                                Used: <span className='text-decoration-line: underline font-bold'>HTML, CSS, JavaScript</span>
+                            Created visually appealing marketing posters to promote business, ensuring clear messaging and brand alignment to engage target audiences effectively. <br />
+                                Used: <span className='text-decoration-line: underline font-bold'>canva</span>
                             </p>
                             <div className='mt-[1rem] flex items-stretch space-x-5 ml-[9rem]'>
                                 <a href="https://github.com/Iynguuuuu/Web."> <IoLogoGithub className='w-[2rem] h-[2rem] text-white ' /></a>
