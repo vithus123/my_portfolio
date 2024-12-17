@@ -52,9 +52,13 @@ const Hero = () => {
 
                     </div>
                     <div className='ml-[12vh] mb-[5vh]'>
-                        <div className='w-[400px] hidden bg-[#090f18] relative lg:flex items-center rounded-full h-[400px]'>
-                        <Image src="/images/44.jpg" alt="user" layout="fill" className="w-36 h-36 rounded-full border-4 border-gray-600 shadow-lg object-cover hover:border-blue-400 hover:shadow-lg transition-all duration-300" />
-
+    <div className='w-[400px] hidden bg-[#090f18] relative lg:flex items-center justify-center rounded-full h-[400px] shadow-[0_10px_30px_rgba(128,128,128,0.3)]'>
+        <Image 
+            src="/images/44.jpg" 
+            alt="user" 
+            layout="fill" 
+            className="w-[500px] h-[500px] object-cover rounded-full"
+        />
                             
                         </div>
                     </div>
