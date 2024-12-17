@@ -45,20 +45,22 @@ const Projects = () => {
 
                             <div className='transform cursor-pointer hover:-translate-y-6 transition-all duration-200 relative 
                                 w-[300px] h-[200px] md:h-[300px] mx-auto '>
-                                <Image src="/images/weatherwave.jpg" alt="Portfolio" layout='fill' className='object-contain fixed' />
+                                <Image src="/images/111.PNG" alt="Portfolio" layout='fill' className='object-contain fixed' />
                             </div>
                             <h1 className='text-[20px] mt:text-[10px] mt-[5px] mb-[5px]'>
-                            Shoe Outlet<br />
+                            Personal Finance Management Webpage<br />
                             </h1>
                             <p className='text-[15px] text-[#d3d2d2] font-normal opacity-70'>
-                            developed a  website and POS system for inventory management, order management, employee management, finance management and supplier management.
-                            Group Project <br />
+                             Webpage using React and Tailwind CSS,
+                             featuring Dark Mode & Light Mode, a sleek modern UI, and a 
+                             fully responsive design for seamless access across all devices.
+                              smooth, user-friendly interface for managing finances. <br />
                                 Used: <span className='text-decoration-line: underline font-bold'>Spring Boot, PostgreSQL, Vue js <br />
                                 </span>
                             </p>
                             <div className='mt-[1rem] flex items-stretch space-x-5 ml-[9rem]'>
-                                <a href="https://github.com/Iynguuuuu/Weatherwave"> <IoLogoGithub className='w-[2rem] h-[2rem] text-white ' /></a>
-                                <a href="https://weatherwave-neon.vercel.app/"> <IoGlobeOutline className='w-[2rem] h-[2rem] text-white ' /></a>
+                                <a href="https://github.com/vithus123/Finance-Management-"> <IoLogoGithub className='w-[2rem] h-[2rem] text-white ' /></a>
+                                <a href="https://finance-management-green.vercel.app/"> <IoGlobeOutline className='w-[2rem] h-[2rem] text-white ' /></a>
                             </div>
 
                         </div>
@@ -75,15 +77,14 @@ const Projects = () => {
                             DishDelight <br />
                             </h1>
                             <p className='text-[15px] text-[#d3d2d2] font-normal opacity-70'>
-                            Created a food ordering application as part of a Human-Computer Interaction
-                            module. Focused on user interface and experience. <br />
+                            Created a  as part of a Human-Computer Interaction module. Focused on user interface and experience. <br />
                                 Mobile app Development
                                 <br />Used:<span className='text-decoration-line: underline font-bold'> Android Studio, Java, API <br />
                                 </span>
                             </p>
                             <div className='mt-[1rem] flex items-stretch space-x-5 ml-[9rem]'>
                                 <a href="https://github.com/vithus123"> <IoLogoGithub className='w-[2rem] h-[2rem] text-white ' /></a>
-                                <a href="https://flexlight.vercel.app/"> <IoGlobeOutline className='w-[2rem] h-[2rem] text-white ' /></a>
+                        <a href="https://flexlight.vercel.app/"> <IoGlobeOutline className='w-[2rem] h-[2rem] text-white ' /></a>
                             </div>
 
                         </div>
@@ -116,20 +117,20 @@ const Projects = () => {
                         <div className='text-center p-[1rem]'>
                             <div className='transform cursor-pointer hover:-translate-y-6 transition-all duration-200 relative 
                                 w-[300px] h-[200px] md:h-[300px] mx-auto '>
-                                <Image src="/images/game.jpg" alt="Portfolio" layout='fill' className='object-contain fixed' />
+                                <Image src="/images/WhatsApp Image 2024-12-17 at 16.47.46_62619d68.jpg" alt="Portfolio" layout='fill' className='object-contain fixed' />
                             </div>
                             <h1 className='text-[20px] mt:text-[10px] mt-[5px] mb-[5px]'>
-                                Ice Sliding Maze Game <br />
+                                WeatherLight <br />
                             </h1>
                             <p className='text-[15px] text-[#d3d2d2] font-normal opacity-70'>
-                                Used the BFS algorithm to develop a shortest path finder for sliding
-                                on ice maze with obstacles.
+                            Weatherwave will be getting temperature, humidity,feels like, sunrise, sunset, hourly, and daily forecast. For input, there are some quick links on top along with a text box for searching a city and also a current location-based search.
+                            
                                 <br />
-                                Used: <span className='text-decoration-line: underline font-bold'> Java, Algorithms (BFS) & Data Structures (LinkedList)
+                                Used: <span className='text-decoration-line: underline font-bold'>React JS, TailWind CSS, OpenWeatherMap for API
                                 </span>
                             </p>
                             <div className='mt-[1rem] flex items-stretch space-x-5 ml-[9rem]'>
-                                <a href="https://github.com/Iynguuuuu/Ice_maze"> <IoLogoGithub className='w-[2rem] h-[2rem] text-white ' /></a>
+                                <a href="https://github.com/vithus123/WeatherLight"> <IoLogoGithub className='w-[2rem] h-[2rem] text-white ' /></a>
 
                             </div>
 
@@ -156,8 +157,8 @@ const Projects = () => {
                             </div>
                         </div>
                     </div>
-
-                    <div data-aos="flip-up" data-aos-delay="100">
+{/* 
+<div data-aos="flip-up" data-aos-delay="100">
                         <div className='text-center p-[1rem]'>
 
                             <div className='transform cursor-pointer hover:-translate-y-6 transition-all duration-200 relative 
@@ -179,6 +180,9 @@ const Projects = () => {
                         </div>
                     </div>
 
+
+*/}
+                    
                     <div data-aos="flip-up" data-aos-delay="300">
                         <div className='text-center p-[1rem]'>
                             <div className='transform cursor-pointer hover:-translate-y-6 transition-all duration-200 relative 
