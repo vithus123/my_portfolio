@@ -39,13 +39,39 @@ const Projects = () => {
                         </div>
                     </div> */}
 
+<div data-aos="flip-up" data-aos-delay="300">
+                        <div className='text-center p-[1rem]'>
+                            <div className='transform cursor-pointer hover:-translate-y-6 transition-all duration-200 relative 
+                                w-[300px] h-[200px] md:h-[300px] mx-auto '>
+                                <Image src="/images/WhatsApp Image 2024-12-17 at 16.47.46_62619d68.jpg" alt="Portfolio" fill  className='object-contain fixed'
+                                sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw" />
+                            </div>
+                            <h1 className='text-[20px] mt:text-[10px] mt-[5px] mb-[5px]'>
+                                WeatherLight <br />
+                            </h1>
+                            <p className='text-[15px] text-[#d3d2d2] font-normal opacity-70'>
+                            Weatherwave will be getting temperature, humidity,feels like, sunrise, sunset, hourly, and daily forecast. For input, there are some quick links on top along with a text box for searching a city and also a current location-based search.
+                            
+                                <br />
+                                Used: <span className='text-decoration-line: underline font-bold'>React JS, TailWind CSS, OpenWeatherMap for API
+                                </span>
+                            </p>
+                            <div className='mt-[1rem] flex items-stretch space-x-5 ml-[9rem]'>
+                                <a href="https://github.com/vithus123/WeatherLight"> <IoLogoGithub className='w-[2rem] h-[2rem] text-white ' /></a>
 
-                    <div data-aos="flip-up" data-aos-delay="300">
+                            </div>
+
+                        </div>
+                    </div>
+
+
+                    <div data-aos="flip-up" data-aos-delay="500">
                         <div className='text-center p-[1rem]'>
 
                             <div className='transform cursor-pointer hover:-translate-y-6 transition-all duration-200 relative 
                                 w-[300px] h-[200px] md:h-[300px] mx-auto '>
-                                <Image src="/images/111.PNG" alt="Portfolio" layout='fill' className='object-contain fixed' />
+                                <Image src="/images/111.PNG" alt="Portfolio" fill  className='object-contain fixed'
+                                sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw" />
                             </div>
                             <h1 className='text-[20px] mt:text-[10px] mt-[5px] mb-[5px]'>
                             Personal Finance Management Webpage<br />
@@ -66,12 +92,13 @@ const Projects = () => {
                         </div>
                     </div>
 
-                    <div data-aos="flip-up" data-aos-delay="500">
+                    <div data-aos="flip-up" data-aos-delay="700">
                         <div className='text-center p-[1rem]'>
 
                             <div className='transform cursor-pointer hover:-translate-y-6 transition-all duration-200 relative 
                                 w-[300px] h-[200px] md:h-[300px] mx-auto '>
-                                <Image src="/images/Capture5.PNG" alt="Portfolio" layout='fill' className='object-contain fixed' />
+                                <Image src="/images/Capture5.PNG" alt="Portfolio" fill className='object-contain fixed'
+                                sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw" />
                             </div>
                             <h1 className='text-[20px] mt:text-[10px] mt-[5px] mb-[5px]'>
                             DishDelight <br />
@@ -90,12 +117,13 @@ const Projects = () => {
                         </div>
                     </div>
 
-                    <div data-aos="flip-up" data-aos-delay="100">
+                    <div data-aos="flip-up" data-aos-delay="900">
                         <div className='text-center p-[1rem]'>
 
                             <div className='transform cursor-pointer hover:-translate-y-6 transition-all duration-200 relative 
                                 w-[300px] h-[200px] md:h-[300px] mx-auto '>
-                                <Image src="/images/capture1.PNG" alt="Portfolio" layout='fill' className='object-contain fixed' />
+                                <Image src="/images/capture1.PNG" alt="Portfolio" fill  className='object-contain fixed' 
+                                sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"/>
                             </div>
                             <h1 className='text-[20px] mt:text-[10px] mt-[5px] mb-[5px]'>
                                 JORA  <br />
@@ -113,35 +141,14 @@ const Projects = () => {
                         </div>
                     </div>
 
-                    <div data-aos="flip-up" data-aos-delay="300">
+                   
+
+                    <div data-aos="flip-up" data-aos-delay="1100">
                         <div className='text-center p-[1rem]'>
                             <div className='transform cursor-pointer hover:-translate-y-6 transition-all duration-200 relative 
                                 w-[300px] h-[200px] md:h-[300px] mx-auto '>
-                                <Image src="/images/WhatsApp Image 2024-12-17 at 16.47.46_62619d68.jpg" alt="Portfolio" layout='fill' className='object-contain fixed' />
-                            </div>
-                            <h1 className='text-[20px] mt:text-[10px] mt-[5px] mb-[5px]'>
-                                WeatherLight <br />
-                            </h1>
-                            <p className='text-[15px] text-[#d3d2d2] font-normal opacity-70'>
-                            Weatherwave will be getting temperature, humidity,feels like, sunrise, sunset, hourly, and daily forecast. For input, there are some quick links on top along with a text box for searching a city and also a current location-based search.
-                            
-                                <br />
-                                Used: <span className='text-decoration-line: underline font-bold'>React JS, TailWind CSS, OpenWeatherMap for API
-                                </span>
-                            </p>
-                            <div className='mt-[1rem] flex items-stretch space-x-5 ml-[9rem]'>
-                                <a href="https://github.com/vithus123/WeatherLight"> <IoLogoGithub className='w-[2rem] h-[2rem] text-white ' /></a>
-
-                            </div>
-
-                        </div>
-                    </div>
-
-                    <div data-aos="flip-up" data-aos-delay="500">
-                        <div className='text-center p-[1rem]'>
-                            <div className='transform cursor-pointer hover:-translate-y-6 transition-all duration-200 relative 
-                                w-[300px] h-[200px] md:h-[300px] mx-auto '>
-                                <Image src="/images/Capture2.PNG" alt="Portfolio" layout='fill' className='object-contain fixed' />
+                                <Image src="/images/Capture2.PNG" alt="Portfolio" fill  className='object-contain fixed'
+                                sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw" />
                             </div>
                             <h1 className='text-[20px] mt:text-[10px] mt-[5px] mb-[5px]'>
                                 Portfolio <br />
@@ -182,7 +189,7 @@ const Projects = () => {
 
 
 */}
-                    
+{/*                     
                     <div data-aos="flip-up" data-aos-delay="300">
                         <div className='text-center p-[1rem]'>
                             <div className='transform cursor-pointer hover:-translate-y-6 transition-all duration-200 relative 
@@ -203,7 +210,7 @@ const Projects = () => {
 
 
                         </div>
-                    </div>
+                    </div> */}
 
 
 

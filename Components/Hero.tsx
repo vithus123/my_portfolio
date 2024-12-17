@@ -56,7 +56,7 @@ const Hero = () => {
         <Image 
             src="/images/44.jpg" 
             alt="user" 
-            layout="fill" 
+            fill
             className="w-[500px] h-[500px] object-cover rounded-full"
         />
                             
