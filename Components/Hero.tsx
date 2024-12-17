@@ -58,6 +58,7 @@ const Hero = () => {
             alt="user" 
             fill
             className="w-[500px] h-[500px] object-cover rounded-full"
+            sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
         />
                             
                         </div>
