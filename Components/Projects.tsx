@@ -71,7 +71,7 @@ const Projects = () => {
 
                             <div className='transform cursor-pointer hover:-translate-y-6 transition-all duration-200 relative 
                                 w-[300px] h-[200px] md:h-[300px] mx-auto '>
-                                <Image src="/images/P3.jpg" alt="Portfolio" layout='fill' className='object-contain fixed' />
+                                <Image src="/images/Capture5.PNG" alt="Portfolio" layout='fill' className='object-contain fixed' />
                             </div>
                             <h1 className='text-[20px] mt:text-[10px] mt-[5px] mb-[5px]'>
                             DishDelight <br />
@@ -84,7 +84,7 @@ const Projects = () => {
                             </p>
                             <div className='mt-[1rem] flex items-stretch space-x-5 ml-[9rem]'>
                                 <a href="https://github.com/vithus123"> <IoLogoGithub className='w-[2rem] h-[2rem] text-white ' /></a>
-                        <a href="https://flexlight.vercel.app/"> <IoGlobeOutline className='w-[2rem] h-[2rem] text-white ' /></a>
+                        
                             </div>
 
                         </div>
