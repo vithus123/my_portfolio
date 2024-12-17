@@ -43,7 +43,7 @@ const Projects = () => {
                         <div className='text-center p-[1rem]'>
                             <div className='transform cursor-pointer hover:-translate-y-6 transition-all duration-200 relative 
                                 w-[300px] h-[200px] md:h-[300px] mx-auto '>
-                                <Image src="/images/WhatsApp Image 2024-12-17 at 16.47.46_62619d68.jpg" alt="Portfolio" fill  className='object-contain fixed'
+                                <Image src="/images/Capture.PNG" alt="Portfolio" fill  className='object-contain fixed'
                                 sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw" />
                             </div>
                             <h1 className='text-[20px] mt:text-[10px] mt-[5px] mb-[5px]'>
