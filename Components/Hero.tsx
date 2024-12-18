@@ -58,7 +58,8 @@ const Hero = () => {
         alt="Description of the image"
         width={800}          // Replace with the appropriate width
         height={600}         // Replace with the appropriate height
-        priority             // This marks the image as high priority
+        priority 
+               
       />
     </div>
                     </div>
